@@ -81,8 +81,6 @@ Q8. Who performs Software Testing?
 
 [Notes.docx](https://github.com/user-attachments/files/29655111/Notes.docx)
 
-<img width="927" height="732" alt="image" src="https://github.com/user-attachments/assets/0da6ea08-de9a-4398-9f25-63fd0b3cf1fc" />
-
 <img width="1497" height="470" alt="image" src="https://github.com/user-attachments/assets/1e60b637-8db1-4ce8-af41-303f358d2edf" />
 
 <img width="1470" height="825" alt="image" src="https://github.com/user-attachments/assets/98ca98e3-2fa1-48f4-926f-ead8afe4abf0" />
