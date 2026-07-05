@@ -14,27 +14,15 @@ In simple words, SDLC is a step-by-step process that guides the development team
 
 1. Provides a Systematic Approach
 
-SDLC provides a structured process for developing software in an organized manner.
-
 2. Helps Deliver High-Quality Software
-
-Each phase of SDLC focuses on quality and ensures that the final product meets customer requirements.
 
 3. Reduces Project Risks and Failures
 
-Proper planning and testing help identify risks early and minimize project failures.
-
 4. Improves Communication Among Team Members
-
-SDLC clearly defines the responsibilities of developers, testers, designers, and business analysts.
 
 5. Ensures Timely Delivery
 
-Planning and scheduling help deliver software within the estimated time and budget.
-
 6. Makes Maintenance Easier
-
-A properly developed application is easier to maintain and update in the future.
 
 ---
 
