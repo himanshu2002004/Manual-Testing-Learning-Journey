@@ -68,6 +68,7 @@ A Feasibility Study is the process of evaluating whether a software project is p
 In simple words, a feasibility study answers the question: "Should we build this software project or not?"
 
 Types of Feasibility Study :
+
 I.	Technical Feasibility :
 Technical Feasibility determines whether the organization has the necessary technology, tools, infrastructure, and technical expertise to develop the project.
 
