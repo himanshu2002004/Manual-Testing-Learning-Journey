@@ -38,6 +38,22 @@ In this phase:
 - Client expectations are understood.
 - Functional and non-functional requirements are documented.
 
+Activities Performed :
+
+- Meeting with clients
+- Gathering business requirements
+- Understanding customer expectations
+- Preparing requirement documents
+- Defining project scope
+
+Deliverables :
+
+- SRS Document
+- Requirement Specifications
+- Project Scope Document
+
+
+
 Example:
 
 Client Requirement:
@@ -45,7 +61,23 @@ Client Requirement:
 
 ---
 
-### 2. Design
+### 2. Feasibility Study
+
+A Feasibility Study is the process of evaluating whether a software project is practical, achievable, and worth developing.
+
+In simple words, a feasibility study answers the question: "Should we build this software project or not?"
+
+Types of Feasibility Study :
+I.	Technical Feasibility :
+Technical Feasibility determines whether the organization has the necessary technology, tools, infrastructure, and technical expertise to develop the project.
+
+II.	Economic Feasibility :
+Economic Feasibility determines whether the project is financially viable and worth the investment.
+
+III.	Resource Feasibility :
+Resource Feasibility is the process of determining whether the organization has sufficient resources to successfully develop, test, deploy, and maintain the software project.
+
+### 3. Design
 
 This phase focuses on creating the blueprint of the application.
 
@@ -54,6 +86,14 @@ In this phase:
 - System architecture is designed.
 - Database structure is prepared.
 - UI wireframes and application flow are created.
+
+Deliverables :
+
+- High-Level Design (HLD) : 
+   	High-Level Design (HLD) is the overall architecture or blueprint of the software system. It describes the major components of the application and how these components interact with each other.
+  
+- Low-Level Design (LLD) :
+	Low-Level Design (LLD) describes the detailed implementation of each module identified in HLD.
 
 Example:
 
@@ -65,7 +105,7 @@ Designing:
 
 ---
 
-### 3. Development
+### 4. Development
 
 This is the implementation phase where developers write code.
 
@@ -74,6 +114,19 @@ In this phase:
 - Developers write source code.
 - Features are implemented according to requirements.
 - Modules are integrated.
+
+Activities Performed :
+
+- Writing source code
+- Developing modules
+- Integrating components
+- Creating databases
+- Unit Testing
+
+Deliverables
+- Source Code
+- Executable Application
+- Database Scripts
 
 Example:
 
@@ -85,7 +138,7 @@ Developing:
 
 ---
 
-### 4. Testing
+### 5. Testing
 
 This phase ensures that the application works according to requirements.
 
@@ -94,6 +147,19 @@ In this phase:
 - Application functionalities are verified.
 - Defects are identified and reported.
 - Quality of the application is validated.
+
+Activities Performed :
+- Preparing Test Cases
+- Executing Test Cases
+- Reporting Defects
+- Regression Testing
+- Retesting
+  
+Deliverables
+- Test Cases
+- Bug Reports
+- Test Execution Reports
+- Test Summary Reports
 
 Example:
 
@@ -106,7 +172,7 @@ Checking:
 
 ---
 
-### 5. Deployment
+### 6. Deployment
 
 This phase involves releasing the application to end users.
 
@@ -114,6 +180,17 @@ In this phase:
 
 - Application is installed on production servers.
 - Software is made available to users.
+
+Activities Performed
+- Installing application
+- Configuring servers
+- Publishing application
+- Production release
+  
+Deliverables
+- Live Application
+- Production Environment
+- Deployment Reports
 
 Example:
 
@@ -124,7 +201,7 @@ Publishing:
 
 ---
 
-### 6. Maintenance
+### 7. Maintenance
 
 This is the final phase of SDLC.
 
@@ -133,6 +210,17 @@ In this phase:
 - Bugs are fixed.
 - New features are added.
 - Performance improvements are made.
+
+Activities Performed
+- Bug Fixing
+- Performance Improvements
+- Security Updates
+- Feature Enhancements
+
+Deliverables
+- Updated Versions
+- Bug Fix Reports
+- Enhancement Reports
 
 Example:
 
@@ -157,6 +245,13 @@ Client Requirements:
 - Search Products
 - Add to Cart
 - Online Payment
+
+### Feasibility Study
+
+-	Technical Feasibility
+-	Economic Feasibility
+-	Resource Feasibility
+
 
 ### Design
 
