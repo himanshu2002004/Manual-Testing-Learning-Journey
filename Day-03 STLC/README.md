@@ -329,7 +329,7 @@ Prepare:
 
 ---
 
-# Interview Questions and Answers
+# Interview Questions
 
 ### Q1. What is STLC?
 
