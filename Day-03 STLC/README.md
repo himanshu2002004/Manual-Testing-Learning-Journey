@@ -57,15 +57,15 @@ Software Testing Life Cycle (STLC) is a sequence of activities performed during 
 # STLC Flow
 
 Requirement Analysis
-     ↓
+↓
 Test Planning
-     ↓
+↓
 Test Case Development
-     ↓
+↓
 Test Environment Setup
-     ↓
+↓
 Test Execution
-     ↓
+↓
 Test Closure
 
 ---
