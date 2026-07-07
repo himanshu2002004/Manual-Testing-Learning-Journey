@@ -6,6 +6,53 @@
 
 Types of Testing are different approaches used to verify various aspects of a software application. Each type of testing has a specific objective and helps identify different kinds of defects.
 
+---
+
+# Types of Software Testing
+
+# Classification of Software Testing
+
+```text
+Software Testing
+│
+├── White Box Testing
+│   ├── Unit Testing
+│   ├── Statement Coverage
+│   ├── Branch Coverage
+│   ├── Path Coverage
+│   ├── Loop Testing
+│   └── Condition Coverage
+│
+├── Black Box Testing
+│   │
+│   ├── Functional Testing
+│   │   ├── Integration Testing
+│   │   ├── System Testing
+│   │   ├── User Acceptance Testing (UAT)
+│   │   ├── Smoke Testing
+│   │   ├── Sanity Testing
+│   │   ├── Regression Testing
+│   │   └── Retesting
+│   │
+│   ├── Non-Functional Testing
+│   │   ├── Performance Testing
+│   │   ├── Load Testing
+│   │   ├── Stress Testing
+│   │   ├── Volume Testing
+│   │   ├── Scalability Testing
+│   │   ├── Security Testing
+│   │   ├── Compatibility Testing
+│   │   ├── Usability Testing
+│   │   ├── Reliability Testing
+│   │   └── Recovery Testing
+│   │
+│   ├── Ad Hoc Testing
+│   └── Exploratory Testing
+│
+└── Gray Box Testing
+
+```
+
 # White Box Testing
 
 ---
@@ -50,23 +97,13 @@ White Box Testing is a testing technique where the tester has complete access to
 
 ### 1. Statement Coverage
 
-Ensures every statement in the program is executed at least once.
-
 ### 2. Branch Coverage
-
-Ensures every branch (True and False conditions) is executed.
 
 ### 3. Path Coverage
 
-Ensures every possible execution path in the application is tested.
-
 ### 4. Loop Testing
 
-Tests loops such as `for`, `while`, and `do-while` to ensure they work correctly.
-
 ### 5. Condition Coverage
-
-Tests every individual condition in a decision statement.
 
 ---
 
@@ -158,14 +195,36 @@ Black Box Testing is a testing technique where the tester validates the function
 ## Types of Black Box Testing
 
 - Functional Testing
-- System Testing
+- Non Functional Testing
+- Adhoc Testing
+- Exploratory Testing
+
+---
+
+## Types of Functional Testing
+
 - Integration Testing
+- System Testing
 - User Acceptance Testing (UAT)
-- Regression Testing
 - Smoke Testing
 - Sanity Testing
+- Regression Testing
 - Retesting
-- Non Functional Testing
+
+---
+
+## Types of Non-Functional Testing
+
+- Performance Testing
+- Load Testing
+- Stress Testing
+- Volume Testing
+- Scalability Testing
+- Security Testing
+- Compatibility Testing
+- Usability Testing
+- Reliability Testing
+- Recovery Testing
 
 ---
 
