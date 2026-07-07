@@ -326,6 +326,74 @@ The focus is only on whether the functionality works correctly.
 
 ---
 
+### Q9. Difference Between White Box and Black Box Testing.
+
+---
+
+### Q10. Difference Between Smoke Testing and Sanity Testing.
+
+---
+
+### Q11.  Difference Between Regression Testing and Retesting.
+
+---
+
+### Q12. Which type of testing is performed after receiving a new build?
+
+---
+
+### Q13. Which testing is performed after a bug is fixed?
+
+---
+
+### Q14. What is the difference between Regression Testing and Retesting?
+
+---
+
+### Q15. What is the main difference between Ad Hoc Testing and Exploratory Testing?
+
+---
+
+### Q16. Difference Between Positive, Negative, and Thorough Testing.
+
+---
+
+### Q17. Difference Between Over Testing, Under Testing and Optimized Testing.
+
+---
+
+### Q18. Difference Between Performance, Load, Stress and Volume Testing.
+
+---
+
+### Q19. Difference Between Functional Testing and Ad Hoc Testing.
+
+---
+
+### Q20. When is Ad Hoc Testing performed?
+
+---
+
+### Q21. When is Exploratory Testing performed?
+
+---
+
+### Q22. What is a Stub?
+
+---
+
+### Q23. What is a Driver?
+
+---
+
+### Q24.  Which Integration Testing method uses Stubs?
+
+---
+
+### Q25.  Which Integration Testing method uses Drivers?
+
+---
+
 ### Easy Way to Remember
 
 **White Box Testing = Know the Code → Test the Logic**
