@@ -236,26 +236,25 @@ Test Case ID
 TC_TRANS_001
 
 Precondition
-User is logged into the application.
-User has sufficient account balance.
-Both source and destination accounts are valid.
+* User is logged into the application.
+* User has sufficient account balance.
+* Both source and destination accounts are valid.
 Test Steps
-Navigate to the Fund Transfer page.
-Enter a valid From Account Number.
-Enter a valid To Account Number.
-Enter a valid transfer amount.
-Click the Transfer button.
+* Navigate to the Fund Transfer page.
+* Enter a valid From Account Number.
+* Enter a valid To Account Number.
+* Enter a valid transfer amount.
+* Click the Transfer button.
 Test Data
-Field	Value
-From Account	12345678
-To Account	87654321
-Amount	5000
+* Field	Value
+* From Account	12345678
+* To Account	87654321
+* Amount	5000
+  
 Expected Result
-
 The amount should be transferred successfully, a success message should be displayed, and the updated account balance should be reflected.
 
 Actual Result
-
 Amount transferred successfully and confirmation message displayed.
 
 Status
@@ -301,30 +300,30 @@ Pass
 ---
 
 # Test Cases
-Verify successful amount transfer using valid From Account, To Account, and Amount.
-Verify transfer with an invalid From Account Number.
-Verify transfer with an invalid To Account Number.
-Verify transfer when From Account Number is left blank.
-Verify transfer when To Account Number is left blank.
-Verify transfer when the Amount field is left blank.
-Verify transfer when all fields are left blank.
-Verify transfer with an amount greater than the available account balance.
-Verify transfer with an amount equal to the available account balance.
-Verify transfer with the minimum allowed amount.
-Verify transfer with the maximum allowed amount.
-Verify transfer with zero amount.
-Verify transfer with a negative amount.
-Verify transfer with decimal values (if supported).
-Verify transfer with special characters entered in the account number fields.
-Verify transfer with alphabetic characters entered in the account number fields.
-Verify transfer when the From Account Number and To Account Number are the same.
-Verify transfer with an account number having fewer than the minimum required digits.
-Verify transfer with an account number exceeding the maximum allowed digits.
-Verify successful transfer using valid minimum-length account numbers.
-Verify successful transfer using valid maximum-length account numbers.
-Verify the Transfer button is enabled only when all mandatory fields contain valid data.
-Verify the Cancel button cancels the transaction.
-Verify the Cancel button redirects to the previous page or dashboard (as per application design).
+* Verify successful amount transfer using valid From Account, To Account, and Amount.
+* Verify transfer with an invalid From Account Number.
+* Verify transfer with an invalid To Account Number.
+* Verify transfer when From Account Number is left blank.
+* Verify transfer when To Account Number is left blank.
+* Verify transfer when the Amount field is left blank.
+* Verify transfer when all fields are left blank.
+* Verify transfer with an amount greater than the available account balance.
+* Verify transfer with an amount equal to the available account balance.
+* Verify transfer with the minimum allowed amount.
+* Verify transfer with the maximum allowed amount.
+* Verify transfer with zero amount.
+* Verify transfer with a negative amount.
+* Verify transfer with decimal values (if supported).
+* Verify transfer with special characters entered in the account number fields.
+* Verify transfer with alphabetic characters entered in the account number fields.
+* Verify transfer when the From Account Number and To Account Number are the same.
+* Verify transfer with an account number having fewer than the minimum required digits.
+* Verify transfer with an account number exceeding the maximum allowed digits.
+* Verify successful transfer using valid minimum-length account numbers.
+* Verify successful transfer using valid maximum-length account numbers.
+* Verify the Transfer button is enabled only when all mandatory fields contain valid data.
+* Verify the Cancel button cancels the transaction.
+* Verify the Cancel button redirects to the previous page or dashboard (as per application design).
 
 ---
 
