@@ -188,21 +188,21 @@ The reported behavior is expected according to the requirements.
 # Defect Life Cycle Flow
 
 ```text
-Defect Found
+ Defect Found
       ↓
-New
+     New
       ↓
-Assigned
+   Assigned
       ↓
-Open
+    Open
       ↓
-Fixed
+    Fixed
       ↓
-Retest
+    Retest
       ↓
-Verified
+   Verified
       ↓
-Closed
+   Closed
 ```
 
 Alternative Flow
