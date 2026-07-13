@@ -55,19 +55,19 @@ Agile is widely used because it provides:
 ```text
 Requirement Gathering
         ↓
-Planning
+     Planning
         ↓
-Design
+      Design
         ↓
-Development
+    Development
         ↓
-Testing
+     Testing
         ↓
-Deployment
+    Deployment
         ↓
-Review
+      Review
         ↓
-Next Sprint
+    Next Sprint
 ```
 
 ---
