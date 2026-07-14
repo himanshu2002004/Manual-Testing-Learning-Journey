@@ -1,4 +1,4 @@
-# Hands on practice on 
+# Hands on practice
 1. Gmail Compose Module Integration Test Scenarios and Test Cases
 2. Amazon Order Module Test Scenarios and Test Cases
 
