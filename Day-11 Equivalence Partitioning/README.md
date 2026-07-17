@@ -193,17 +193,6 @@ Username and Password are mandatory.
 
 ---
 
-# Equivalence Partitioning vs Boundary Value Analysis
-
-| Equivalence Partitioning | Boundary Value Analysis |
-|--------------------------|-------------------------|
-| Divides inputs into partitions. | Tests values at the boundaries. |
-| One value from each partition is tested. | Boundary values are tested. |
-| Reduces the number of test cases. | Focuses on edge cases. |
-| Covers valid and invalid partitions. | Covers minimum and maximum limits. |
-
----
-
 # Best Practices
 
 - Identify all valid and invalid partitions.
